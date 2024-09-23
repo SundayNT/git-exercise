@@ -2,9 +2,8 @@
 
 This is my first Git Project
 
-Hello
-
-Hello world
-
 git add .
 git push origin main
+
+Completing exercise 3.
+
